@@ -1,0 +1,25 @@
+body{
+    background-color:black ;
+     
+     margin: 10%;
+}
+p{
+    color:aqua;
+}
+em{
+    color:white;
+    background-color: maroon;
+}
+h1,h2{
+    color:white;
+    text-decoration: underline;
+}
+h3,h5,h4{
+    color:white;
+}
+h5{
+    text-align: end;
+}
+h1{
+    text-align: center;
+}
